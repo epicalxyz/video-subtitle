@@ -48,3 +48,7 @@ The relative speeds below are measured by transcribing English speech on a A100,
 | medium |   769 M    |    `medium.en`     |      `medium`      |     ~5 GB     |      ~2x       |
 | large  |   1550 M   |        N/A         |      `large`       |    ~10 GB     |       1x       |
 | turbo  |   809 M    |        N/A         |      `turbo`       |     ~6 GB     |      ~8x       |
+
+# Result
+
+https://github.com/user-attachments/assets/961caa1e-0417-435e-8ac5-1b5dc550ff05
